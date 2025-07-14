@@ -1,1 +1,2 @@
 # github-actions-python-dockerhub
+A python flask application to be pushed to dockerhub. In this project, we will see how to build a docker image & push it to the dockerhub using GitHub actions workflow.
